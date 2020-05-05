@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="DELETE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_58872_needit.occasions_user</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>occasions_user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>chris.tessier</sys_created_by>
+        <sys_created_on>2020-05-05 17:45:37</sys_created_on>
+        <sys_id>81444752dba41010cd1b29464896191e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_58872_needit.occasions_user</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_user_role_81444752dba41010cd1b29464896191e</sys_update_name>
+        <sys_updated_by>chris.tessier</sys_updated_by>
+        <sys_updated_on>2020-05-05 17:45:37</sys_updated_on>
+    </sys_user_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>91b5e4cedb86770852dd2f17d49619e1</instance_id>
+        <instance_name>dev87653</instance_name>
+        <name>sys_user_role_81444752dba41010cd1b29464896191e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role"><sys_user_role action="INSERT_OR_UPDATE"><assignable_by/><can_delegate>true</can_delegate><description/><elevated_privilege>false</elevated_privilege><grantable>true</grantable><includes_roles/><name>x_58872_needit.occasions_user</name><requires_subscription>-1</requires_subscription><scoped_admin>false</scoped_admin><suffix>occasions_user</suffix><sys_class_name>sys_user_role</sys_class_name><sys_created_by>chris.tessier</sys_created_by><sys_created_on>2020-05-05 17:45:37</sys_created_on><sys_id>81444752dba41010cd1b29464896191e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_58872_needit.occasions_user</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_user_role_81444752dba41010cd1b29464896191e</sys_update_name><sys_updated_by>chris.tessier</sys_updated_by><sys_updated_on>2020-05-05 17:45:37</sys_updated_on></sys_user_role></record_update>]]></payload>
+        <payload_hash>152121419</payload_hash>
+        <record_name>x_58872_needit.occasions_user</record_name>
+        <reverted_from/>
+        <source>55444752dba41010cd1b294648961944</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>chris.tessier</sys_created_by>
+        <sys_created_on>2020-05-05 17:45:38</sys_created_on>
+        <sys_id>24748b52dba41010cd1b2946489619c3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>171e5f172660000001</sys_recorded_at>
+        <sys_updated_by>chris.tessier</sys_updated_by>
+        <sys_updated_on>2020-05-05 17:45:38</sys_updated_on>
+        <type>Role</type>
+        <update_guid>2c748b5207a41010ba69905bbc82cac2</update_guid>
+        <update_guid_history>2c748b5207a41010ba69905bbc82cac2:152121419</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_58872_needit.occasions_user">12d40b92dba41010cd1b29464896196a</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>chris.tessier</sys_created_by>
+        <sys_created_on>2020-05-05 17:47:23</sys_created_on>
+        <sys_db_object display_value="" name="sys_user_role">sys_user_role</sys_db_object>
+        <sys_id>00535daccbc849ea8cd9629114547899</sys_id>
+        <sys_metadata>81444752dba41010cd1b29464896191e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_58872_needit.occasions_user</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_user_role_81444752dba41010cd1b29464896191e</sys_update_name>
+        <sys_update_version display_value="sys_user_role_81444752dba41010cd1b29464896191e">24748b52dba41010cd1b2946489619c3</sys_update_version>
+        <sys_updated_by>chris.tessier</sys_updated_by>
+        <sys_updated_on>2020-05-05 17:47:23</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
